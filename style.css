@@ -1,0 +1,76 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+a{
+    text-decoration: none ;
+}
+ul{
+    list-style: none;
+}
+.toubu{
+    height: 100vh;
+    background-color: aqua;
+    background-image: url(museum.jpg);
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+.logo{
+     margin-bottom: 20px;
+}
+.buy{
+    width: 300px;
+    height: 400px;
+    margin: 0px 0px 20px 50px;
+}
+.di2{
+    width: 1500px;
+    height: 800px;
+    margin: auto;
+    background-image: url(logo1.png);
+    background-repeat: no-repeat;
+    background-position:right center;
+    background-size: 40%;
+    
+    
+}
+.di3{
+    width: 100%;
+    height: 180px;
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+.di31{
+    background-color: rgb(255, 127, 127);
+    width: 100%;
+    height: 50px;
+    padding: 30px 0 30px 0;
+}
+
+.di4{
+    background-color: rgb(255, 127, 127);
+    width: 100%;
+    height: 710px;
+
+
+}
+.di41{
+    background-color: rgb(255, 127, 127);
+    width: 1300px;
+    height: 220px;
+    margin:auto; 
+}
+.tupian{
+   margin: auto 10px;
+   
+}
+.di5{
+    width: 100%;
+    height: 70px;
+    background-color: black;
+}
